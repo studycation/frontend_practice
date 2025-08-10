@@ -1,0 +1,9 @@
+h1{color: #d826d8; font-family: BatangChe, "Times New Roman", serif; font-weight: bold;}
+
+div>p+button{color: #ff0000; text-decoration: underline; font-variant: small-caps; font-style: italic;}
+
+h3{text-align: center; color: #090;}
+
+li#js{text-decoration: line-through;}
+li.done{color: #008;}
+
